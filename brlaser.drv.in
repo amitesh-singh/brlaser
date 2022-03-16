@@ -342,3 +342,12 @@ Option "brlaserEconomode/Toner save mode" Boolean AnySetup 10
   Duplex rotated
   PCFileName "brl2710.ppd"
 }
+
+{
+  ModelName "HL-B2000D series"
+  Attribute "NickName" "" "Brother HL-B2000D series, $USING"
+  Attribute "1284DeviceID" "" "MFG:Brother;CMD:PJL,HBP,URF;MDL:HL-B2000D series;CLS:PRINTER;CID:Brother Laser Type1;"
+  Duplex rotated
+  PCFileName "brl2000.ppd"
+}
+
